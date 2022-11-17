@@ -16,4 +16,11 @@ public class NewTestsForOurProject {
         System.out.println("Third test");
 
     }
+
+
+    public void test4(){
+        System.out.println("Fourth test");
+
+    }
+
 }
